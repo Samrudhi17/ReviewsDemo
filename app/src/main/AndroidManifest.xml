@@ -10,10 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ReviewsSystem">
         <activity
-            android:name=".PersonalDetail"
+            android:name=".EmailInput"
             android:exported="true" />
         <activity
-            android:name=".MainActivity"
+            android:name=".NameInput"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
