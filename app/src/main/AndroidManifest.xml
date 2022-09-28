@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ReviewsSystem">
         <activity
+            android:name=".PersonalDetail"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
